@@ -1,6 +1,6 @@
 ### Hi, I'm Christian 
 
-![alt text](https://github.com/cpadierna/cpadierna/blob/github-banner/github-banner.png?raw=true)
+![alt text](https://github.com/cpadierna/cpadierna/blob/main/github-banner.png)
 
 Skills: React.js, Python, Node.js, JavaScript, HTML, CSS
 
