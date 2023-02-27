@@ -4,7 +4,7 @@
 Skills: React.js, Python, Node.js, JavaScript, HTML, CSS
 
 - 🔭 I’m currently working on cleaning my github! 
-- 🌱 I’m currently learning MEAN stack 
+- 🌱 I’m currently learning MERN stack 
 - 📫 How to reach me: christianpadierna16@gmail.com 
 - 😄 Pronouns: He/him/his 
 
