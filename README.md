@@ -1,12 +1,13 @@
-### Hi, I'm Christian 
+### Hi, I'm Christian 👨‍💻
 
 ![alt text](https://github.com/cpadierna/cpadierna/blob/main/github-banner.png)
 
 Skills: React.js, Python, Node.js, JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on cleaning my github! 
-- 🌱 I’m currently learning MERN stack 
-- 📫 How to reach me: christianpadierna16@gmail.com 
+- 🔭 I’m currently working on cleaning my GitHub page. Thanks for stopping by! 
+- 🌱 I’m currently learning MERN stack
+- 📫 How to reach me: christianpadierna16@gmail.com
+- ✍️ Hobbies: Cooking, espresso, and reading
 - 😄 Pronouns: He/him/his 
 
 
