@@ -5,7 +5,6 @@
 Skills: React.js, Python, Node.js, JavaScript, HTML, CSS
 
 - 🔭 I’m currently working on cleaning my GitHub page. Thanks for stopping by! 
-- 🌱 I’m currently working on MERN stack projects
 - 📫 How to reach me: christianpadierna16@gmail.com
 - ✍️ Hobbies: Cooking, espresso, boxing, and reading
 - 😄 Pronouns: He/him/his 
