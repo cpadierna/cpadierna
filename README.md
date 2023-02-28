@@ -11,9 +11,9 @@
 - 😄 Pronouns: He/him/his 
 
 ## Check out my LinkedIn or Portfolio Website!
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/cpadierna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.cpadierna.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="mailto:christianpadierna16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Page Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpadierna)](https://github.com/anuraghazra/github-readme-stats)
