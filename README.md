@@ -11,9 +11,9 @@
 - 😄 Pronouns: He/him/his 
 
 ## Glance of My Work...
-<img src="https://github.com/cpadierna/noteapp/blob/main/note_it_gif.gif"/>
-<img src="https://github.com/cpadierna/github_data_vis/blob/main/Top30_gif.gif"/>
-<img src="https://github.com/cpadierna/simon/blob/main/simon_playing_gif.gif"/>
+<img src="https://github.com/cpadierna/noteapp/blob/main/note_it_gif.gif" width="150"/>
+<img src="https://github.com/cpadierna/github_data_vis/blob/main/Top30_gif.gif" width="150"/>
+<img src="https://github.com/cpadierna/simon/blob/main/simon_playing_gif.gif" width="150"/>
 
 ## Let's Chat
 <a href="https://www.linkedin.com/in/cpadierna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
