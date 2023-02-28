@@ -10,7 +10,7 @@
 - ✍️ Hobbies: Cooking, espresso, boxing, and reading
 - 😄 Pronouns: He/him/his 
 
-## Check out my LinkedIn or Portfolio Website!
+## Let's Chat
 <a href="https://www.linkedin.com/in/cpadierna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.cpadierna.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="mailto:christianpadierna16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
