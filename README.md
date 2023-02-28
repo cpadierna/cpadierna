@@ -7,14 +7,14 @@
 
 ## About Me
 - 🔭 I’m currently working on cleaning my GitHub page. Thanks for stopping by! 
-- 📫 How to reach me: christianpadierna16@gmail.com
 - ✍️ Hobbies: Cooking, espresso, boxing, and reading
 - 😄 Pronouns: He/him/his 
 
 ## Check out my LinkedIn or Portfolio Website!
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
- 
 ## Page Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpadierna)](https://github.com/anuraghazra/github-readme-stats)
 
