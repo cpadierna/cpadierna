@@ -11,9 +11,10 @@
 - ✍️ Hobbies: Cooking, espresso, boxing, and reading
 - 😄 Pronouns: He/him/his 
 
-## Want to reach out?
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cpadierna/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.cpadierna.com)  
+## Check out my LinkedIn or Portfolio Website!
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://www.linkedin.com/in/cpadierna/)
 
+ 
 ## Page Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpadierna)](https://github.com/anuraghazra/github-readme-stats)
 
