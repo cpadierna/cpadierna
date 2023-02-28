@@ -3,7 +3,7 @@
 ![alt text](https://github.com/cpadierna/cpadierna/blob/main/github-banner.png)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,react,js,nodejs,mongodb,postman,git,github,jsbash,express,html,css,matlab,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,js,nodejs,mongodb,postman,git,github,bash,express,html,css,matlab,discord,vscode)](https://skillicons.dev)
 
 ## About Me
 - 🔭 I’m currently working on cleaning my GitHub page. Thanks for stopping by! 
