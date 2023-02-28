@@ -6,11 +6,13 @@
 [![My Skills](https://skillicons.dev/icons?i=react,py,js,nodejs,mongodb,postman,git,github,bash,express,html,css,matlab,discord,vscode)](https://skillicons.dev)
 
 ## About Me
-- 🔭 I’m currently working on cleaning my GitHub page. Thanks for stopping by! 
+I'm a self-taught web developer. I started my coding journey in fall of 2022 and haven't looked back! 
+
+- 🔭 I’m currently working on a Python project that utilizes Django. I have plans for a MERN stack project afterwards.
 - ✍️ Hobbies: Cooking, espresso, boxing, and reading
 - 😄 Pronouns: He/him/his 
 
-## Glance of My Work...
+## My Work at a Glance
 <div id="image-table">
     <table>
 	    <tr>
