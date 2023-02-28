@@ -11,16 +11,20 @@
 - 😄 Pronouns: He/him/his 
 
 ## Glance of My Work...
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="https://github.com/cpadierna/noteapp/blob/main/note_it_gif.gif" width="250"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/cpadierna/github_data_vis/blob/main/Top30_gif.gif" width="250"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/cpadierna/simon/blob/main/simon_playing_gif.gif" width="250"/>
-     </div>
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://github.com/cpadierna/noteapp/blob/main/note_it_gif.gif" width="250"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/cpadierna/github_data_vis/blob/main/Top30_gif.gif" width="250"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/cpadierna/simon/blob/main/simon_playing_gif.gif" width="250"/>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## Let's Chat
