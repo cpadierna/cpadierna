@@ -35,6 +35,9 @@
             <td style="padding:10px">
             	<img src="https://github.com/cpadierna/world_pop_data_vis/blob/main/world_pop_gif.gif" width="250"/>
             </td>
+	    <td style="padding:10px">
+            	<img src="https://github.com/cpadierna/cv/blob/main/portfolio_site_gif.gif" width="250"/>
+            </td>
         </tr>
     </table>
 </div>
