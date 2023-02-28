@@ -15,13 +15,13 @@
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/cpadierna/noteapp/blob/main/note_it_gif.gif" width="265"/>
+        	    <img src="https://github.com/cpadierna/noteapp/blob/main/note_it_gif.gif" width="260"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github.com/cpadierna/github_data_vis/blob/main/Top30_gif.gif" width="265"/>
+            	<img src="https://github.com/cpadierna/github_data_vis/blob/main/Top30_gif.gif" width="260"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/cpadierna/simon/blob/main/simon_playing_gif.gif" width="265"/>
+            	<img src="https://github.com/cpadierna/simon/blob/main/simon_playing_gif.gif" width="260"/>
             </td>
         </tr>
     </table>
@@ -30,10 +30,10 @@
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/cpadierna/drums/blob/main/drums_example_gif.gif" width="265"/>
+        	    <img src="https://github.com/cpadierna/drums/blob/main/drums_example_gif.gif" width="260"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github.com/cpadierna/world_pop_data_vis/blob/main/world_pop_gif.gif" width="265"/>
+            	<img src="https://github.com/cpadierna/world_pop_data_vis/blob/main/world_pop_gif.gif" width="260"/>
             </td>
         </tr>
     </table>
