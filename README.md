@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,py,js,nodejs,mongodb,postman,git,github,bash,express,html,css,matlab,discord,vscode)](https://skillicons.dev)
 
 ## About Me
-I'm a self-taught web developer. I started my coding journey in fall of 2022 and haven't looked back! 
+I'm a self-taught web developer. I started my coding journey in 2022 and haven't looked back! 
 
 - 🔭 I’m currently working on a MERN stack project. I have plans for a Django project afterwards.
 - ✍️ Hobbies: Cooking, espresso, boxing, and reading
