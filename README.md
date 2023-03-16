@@ -50,7 +50,7 @@ I'm a self-taught web developer. I started my coding journey in 2022 and haven't
 <a href="mailto:christianpadierna16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Page Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpadierna&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpadierna&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/cpadierna) 
 
