@@ -8,7 +8,7 @@
 ## About Me
 I'm a self-taught web developer. I started my coding journey in 2022 and haven't looked back! 
 
-- 🔭 I’m currently working on a MERN stack project. I have plans for a Django project afterwards.
+- 🔭 I’m currently working on an iOS app in Swift!
 - ✍️ Hobbies: Cooking, espresso, boxing, and reading
 - 😄 Pronouns: He/him/his 
 
