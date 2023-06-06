@@ -51,5 +51,5 @@ I'm a self-taught Software Engineer. I started my coding journey in 2022 and hav
 
 ## Page Stats
 
-![Profile views](https://gpvc.arturio.dev/cpadierna) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpadierna&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
