@@ -6,9 +6,9 @@
 [![My Skills](https://skillicons.dev/icons?i=react,py,js,nodejs,mongodb,postman,git,github,bash,express,html,css,matlab,discord,vscode)](https://skillicons.dev)
 
 ## About Me
-I'm a self-taught Software Engineer. I started my coding journey in 2022 and haven't looked back! 
+I started my coding journey in 2022 and haven't looked back! 
 
-- 🔭 I’m currently working on React Native app!
+- 🔭 I’m currently working on a React Native app!
 - ✍️ Hobbies: Cooking, espresso, weight-lifting, and reading
 - 😄 Pronouns: He/him/his 
 
@@ -48,6 +48,4 @@ I'm a self-taught Software Engineer. I started my coding journey in 2022 and hav
 <a href="https://www.linkedin.com/in/cpadierna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.cpadierna.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="mailto:christianpadierna16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-## Page Stats
 
