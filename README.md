@@ -8,8 +8,8 @@
 ## About Me
 I'm a self-taught Software Engineer. I started my coding journey in 2022 and haven't looked back! 
 
-- 🔭 I’m currently working on an iOS app in Swift!
-- ✍️ Hobbies: Cooking, espresso, boxing, and reading
+- 🔭 I’m currently working on React Native app!
+- ✍️ Hobbies: Cooking, espresso, weight-lifting, and reading
 - 😄 Pronouns: He/him/his 
 
 ## My Work at a Glance
@@ -50,6 +50,4 @@ I'm a self-taught Software Engineer. I started my coding journey in 2022 and hav
 <a href="mailto:christianpadierna16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Page Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpadierna&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
