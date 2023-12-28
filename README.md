@@ -8,7 +8,6 @@
 ## About Me
 I started my coding journey in 2022 and haven't looked back! 
 
-- 🔭 I’m currently working on a React Native app!
 - ✍️ Hobbies: Cooking, espresso, weight-lifting, and reading
 - 😄 Pronouns: He/him/his 
 
