@@ -4,7 +4,6 @@
 [![My Skills](https://skillicons.dev/icons?i=react,py,js,nodejs,git,github,bash,express,html,css,discord,vscode)](https://skillicons.dev)
 
 ## About Me
-I started my coding journey in 2022 and haven't looked back! 
 
 - ✍️ Hobbies: Cooking, espresso, weight-lifting, and reading
 - 😄 Pronouns: He/him/his 
