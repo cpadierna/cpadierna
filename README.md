@@ -1,7 +1,7 @@
 ## Hi, I'm Christian 👨‍💻
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react,py,js,nodejs,git,github,bash,express,html,css,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,py,js,nodejs,git,github,bash,express,html,css,scss,tailwind,vscode)](https://skillicons.dev)
 
 ## About Me
 
