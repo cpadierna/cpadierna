@@ -14,7 +14,6 @@ I specialize in PHP/Laravel, Vue.js, and AWS infrastructure. Currently leading S
 | [**Git Memory**](https://github.com/cpadierna/git-memory) | VSCode extension with GitHub OAuth, Supabase/PostgreSQL backend, and Jest regression testing |
 | [**Statamic Transfer**](https://github.com/cpadierna/statamic-transfer) | CLI tool for bulk content migration across Statamic CMS instances — under evaluation for org-wide adoption |
 | [**Game Server Automation**](https://github.com/cpadierna) | Serverless AWS architecture — EC2, S3, API Gateway, Lambda — with Bash activity monitoring and auto-shutdown |
-| [**Mad Ears LLC**](https://madears.co) | Web design consultancy — Framer-based client sites, LLC filed with Ohio SOS, Google Workspace configured |
 
 ---
 
