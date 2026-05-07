@@ -58,8 +58,6 @@ I specialize in PHP/Laravel, Vue.js, and AWS infrastructure. Currently leading S
 
 - ⚙️ SOC 2 Type II audit preparation across 30+ AWS client environments
 - 📐 AWS Solutions Architect Associate certification (2026)
-- 🏗️ Growing Mad Ears LLC — web design for Columbus small businesses
-- 🌐 WCAG 2.2 AA accessibility — led org's first 100% compliant production implementation
 
 ---
 
